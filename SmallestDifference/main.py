@@ -1,3 +1,4 @@
+#All Test passed
 def smallestDifference(arrayOne, arrayTwo):
     #arrayOne.sort()
 	#arrayTwo.sort()
